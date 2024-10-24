@@ -1,0 +1,4 @@
+﻿  Prep Lab.cpp
+C:\Users\joeam\OneDrive - BYU Office 365\CS 142\Chapter 6\Prep Lab\Prep Lab.cpp(7,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joeam\OneDrive - BYU Office 365\CS 142\Chapter 6\Prep Lab\Prep Lab.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+  Prep Lab.vcxproj -> C:\Users\joeam\OneDrive - BYU Office 365\CS 142\Chapter 6\Debug\Prep Lab.exe
